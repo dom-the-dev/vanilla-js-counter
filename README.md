@@ -1,1 +1,1 @@
-#Simple counter made with vanilla js
+# Simple counter made with vanilla js
