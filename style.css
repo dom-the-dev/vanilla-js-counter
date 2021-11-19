@@ -32,4 +32,5 @@ body {
     color: white;
     border: none;
     outline: none;
+    cursor: pointer;
 }
